@@ -13,6 +13,13 @@ public class SeleniumTest
 	}
 	
 	@Test
+	public void BrowserAutomationNew()
+	{
+		System.out.println("BrowserAutomation5");
+		System.out.println("BrowserAutomation6");
+	}
+	
+	@Test
 	public void elementsUI()
 	{
 		System.out.println("elementsUI");
